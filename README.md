@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jesús Velázquez 👋
+# ¡Hola! Soy Jesús Velázquez 
 
 **Ingeniero en Sistemas Computacionales | Full Stack Developer & DevOps**
 
@@ -8,15 +8,15 @@ Actualmente, busco oportunidades profesionales donde pueda aportar mi visión in
 
 ---
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de **Ingeniería en Sistemas** en el **Instituto Tecnológico de Culiacán**.
-- 🎯 Buscando **Residencias Profesionales / Prácticas (Enero 2027)** en Culiacán, Sinaloa, para integrarme a equipos de TI e infraestructura.
-- 💻 Mi enfoque actual está en la **automatización de despliegues (CI/CD)**, arquitecturas en la nube y desarrollo Full Stack.
-- 🤝 Siempre abierto a colaborar en proyectos de automatización, IoT y optimización de sistemas.
+### Sobre mí
+- Estudiante de **Ingeniería en Sistemas** en el **Instituto Tecnológico de Culiacán**.
+- Buscando **Residencias Profesionales / Prácticas (Enero 2027)** en Culiacán, Sinaloa, para integrarme a equipos de TI e infraestructura.
+- Mi enfoque actual está en la **automatización de despliegues (CI/CD)**, arquitecturas en la nube y desarrollo Full Stack.
+- Siempre abierto a colaborar en proyectos de automatización, IoT y optimización de sistemas.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 **Desarrollo Frontend & Backend:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -29,19 +29,19 @@ Actualmente, busco oportunidades profesionales donde pueda aportar mi visión in
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos Destacados
 
 *   **Tablero Kanban con CI/CD:** Aplicación de gestión ágil desarrollada en React y Node.js, empaquetada con Docker y desplegada automáticamente en AWS EC2 a través de GitHub Actions.
 *   **PowerTech (IoT):** Sistema accesible basado en sensores inteligentes y dispositivos IoT para monitorear y optimizar el uso de electricidad en tiempo real, orientado al sector comercial.
 *   **LiveChat Server:** Implementación de un backend con WebSockets (Socket.io) para mensajería instantánea de baja latencia con autenticación segura.
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jesusvelazquezmx&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
 </p>
 
 ---
 
-### 📫 Contacto
+### Contacto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesus-diego-velazquez-sanchez-35b1b4413)
