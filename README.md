@@ -44,4 +44,4 @@ Actualmente, busco oportunidades profesionales donde pueda aportar mi visión in
 ---
 
 ### Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesus-diego-velazquez-sanchez-35b1b4413)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-diego-velazquez-sanchez-35b1b4413)
