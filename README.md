@@ -38,7 +38,7 @@ Actualmente, busco oportunidades profesionales donde pueda aportar mi visión in
 
 ### Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jesusvelazquezmx&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jesus-Velazquez-mx&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
 </p>
 
 ---
